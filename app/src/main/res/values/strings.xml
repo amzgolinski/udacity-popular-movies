@@ -1,0 +1,27 @@
+<resources>
+
+  <string name="app_name">Popular Movies</string>
+  <string name="action_settings">Settings</string>
+  <string name="title_activity_settings">Settings</string>
+
+  <string name="activity_movie_detail">Movie Detail</string>
+  <string name="label_movie_release_date">Release:</string>
+  <string name="label_user_rating">(TMDb)</string>
+
+  <string name="pref_movie_sort_order">Movie Sort</string>
+  <string name="pref_movie_sort_key">movie_sort</string>
+  <string name="pref_movie_sort_default" translatable="false">popularity.desc</string>
+  <string name="pref_movie_sort_popularity" translatable="false">popularity.desc</string>
+  <string name="pref_movie_sort_rating" translatable="false">vote_average.desc</string>
+  <string name="pref_movie_poster_size">w185</string>
+
+  <!-- themoviedb API key -->
+  <string name="api_key">MY API KEY</string>
+
+  <!-- Bundle keys -->
+  <string name="movie_bundle_key">movies</string>
+  <string name="sort_order_bundle_key">sort_order</string>
+
+
+</resources>
+
